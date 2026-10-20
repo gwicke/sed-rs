@@ -1,9 +1,9 @@
 [package]
-name = "sed-rs"
+name = "gwicke-sed-rs"
 version = "2.0.0"
 edition = "2024"
 rust-version = "1.85"
-authors = ["Joseph R. Quinn <quinn.josephr@protonmail.com>"]
+authors = ["Joseph R. Quinn <quinn.josephr@protonmail.com>", "Gabriel Wicke <gswicke@gmail.com"]
 description = "A GNU-compatible sed implementation in Rust, powered by sd's regex engine"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/quinnjr/sed-rs"
